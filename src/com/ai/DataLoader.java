@@ -6,6 +6,10 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author Klaudia
+ *
+ */
 public class DataLoader {
 	
 	private String fileName;
