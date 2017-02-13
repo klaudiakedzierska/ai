@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Klaudia
+ * @author Klaudia K
  *
  */
 public class DataLoader {
