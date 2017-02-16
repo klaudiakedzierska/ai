@@ -1,8 +1,12 @@
+package com.ai.test;
 import static org.junit.Assert.*;
 
 import java.time.LocalDateTime;
 
 import org.junit.Test;
+
+import com.ai.CostCalculator;
+import com.ai.Customer;
 
 public class CostCalculatorTest {
 	

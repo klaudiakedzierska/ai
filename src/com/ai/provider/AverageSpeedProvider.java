@@ -1,3 +1,4 @@
+package com.ai.provider;
 public class AverageSpeedProvider 
 {
 	public double provide()

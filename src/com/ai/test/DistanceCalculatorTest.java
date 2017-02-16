@@ -1,6 +1,10 @@
+package com.ai.test;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+import com.ai.Customer;
+import com.ai.provider.DistanceCalculator;
 //TODO klaudia: porob dodatkowe testy: przypadki brzegowe
 public class DistanceCalculatorTest {
 	

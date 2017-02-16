@@ -1,3 +1,4 @@
+package com.ai;
 import java.time.LocalDateTime;
 
 public class Customer

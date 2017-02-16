@@ -1,3 +1,6 @@
+package com.ai.provider;
+import com.ai.Customer;
+
 public class DistanceCalculator
 {
 	private static final int SQUARE = 2;

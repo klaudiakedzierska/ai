@@ -1,6 +1,9 @@
+package com.ai;
 import java.time.LocalDateTime;
 import java.time.temporal.ChronoUnit;
 
+import com.ai.provider.AverageSpeedProvider;
+import com.ai.provider.DistanceCalculator;
 import com.ai.provider.StartTimeProvider;
 
 public class CostCalculator

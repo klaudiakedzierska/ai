@@ -1,3 +1,4 @@
+package com.ai.test;
 import static org.junit.Assert.assertEquals;
 
 import java.util.HashSet;
@@ -5,6 +6,8 @@ import java.util.List;
 import java.util.Set;
 
 import org.junit.Test;
+
+import com.ai.CrossPopulation;
 
 public class CrossPopulationTest {
 	
